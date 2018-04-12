@@ -1,1 +1,1 @@
-{"name":"oz-blog","number_of_posts_per_page":7,"disqus_shortname":"","posts":[{"title":"Hello","date":"2018-04-11","tags":"","path":"test.html"}],"pages":[]}
+{"name":"oz-blog","number_of_posts_per_page":7,"disqus_shortname":"","posts":[{"title":"#2","date":"2018-04-12","tags":"hello world test","path":"test-1.html"},{"title":"Hello","date":"2018-04-11","tags":"","path":"test.html","num":0,"type":"post","active":false}],"pages":[]}
